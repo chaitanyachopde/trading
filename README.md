@@ -14,13 +14,3 @@ We'll dive into several basic HTML concepts, including:
 * Using headings to denote importance
 * Adding text using paragraphs
 * Creating links so users can contact you
-
-## Live Demo
-Simply click on this link:- https://dipak-kumawat.github.io/Trading-app/
-
-## Installation
-
-➣ To get this working, you'll need to have Git installed and have a GitHub account. If this is your first time setting up Git  </br>
-➣ To get started, fork this repository to your account and clone it down locally. If you want, you can also try doing this completely from GitHub!
-
-### Enjoy CODE and pull requests are highly appreciated.
